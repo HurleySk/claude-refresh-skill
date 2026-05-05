@@ -1,0 +1,13 @@
+{
+  "name": "refresh",
+  "version": "1.0.0",
+  "description": "One-shot refresh of Claude Code marketplaces, plugin updates, and session reload.",
+  "author": {
+    "name": "Samuel Hurley",
+    "url": "https://github.com/HurleySk"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/HurleySk/claude-refresh-skill",
+  "repository": "https://github.com/HurleySk/claude-refresh-skill",
+  "keywords": ["marketplace", "refresh", "update", "reload", "plugins"]
+}
